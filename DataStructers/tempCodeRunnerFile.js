@@ -1,0 +1,1 @@
+console.log(firstRecurringCharacter(arr)) 
